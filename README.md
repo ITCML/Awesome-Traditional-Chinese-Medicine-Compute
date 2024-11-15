@@ -26,9 +26,9 @@ If you have any problems, suggestions or improvements, please submit the issue o
 - <a name=""></a>**[MIGA]** Cross-Modal Graph Contrastive Learning with Cellular Images (**Advanced science**) [[paper](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202404845)] [[code](https://github.com/prokia/MIGA)]![GitHub stars](https://img.shields.io/github/stars/prokia/MIGA.svg?logo=github&label=Stars)
 
 ## 2021
-- <a name=""></a>**[MIGA]** HERB: a high-throughput experiment-and reference-guided database of traditional Chinese medicine (**academic**) [[paper](https://academic.oup.com/nar/article-abstract/49/D1/D1197/6017358)]
-- <a name=""></a>**[MIGA]** FangNet: Mining herb hidden knowledge from TCM clinical effective formulas using structure network algorithm (**sciencedirect**) [[paper](https://www.sciencedirect.com/science/article/pii/S2001037020305031)]
+- <a name=""></a>**[MIGA]** HERB: a high-throughput experiment-and reference-guided database of traditional Chinese medicine (**Academic**) [[paper](https://academic.oup.com/nar/article-abstract/49/D1/D1197/6017358)]
+- <a name=""></a>**[MIGA]** FangNet: Mining herb hidden knowledge from TCM clinical effective formulas using structure network algorithm (**Sciencedirect**) [[paper](https://www.sciencedirect.com/science/article/pii/S2001037020305031)]
 
 ## 2019
-- <a name=""></a>**[MIGA]** Cross-Modal SymMap: an integrative database of traditional Chinese medicine enhanced by symptom mapping (**academic**) [[paper](https://academic.oup.com/nar/article-abstract/47/D1/D1110/5150228)]
-- <a name=""></a>**[MIGA]** Efficacy of Danshen Class Injection in the Treatment of Acute Cerebral Infarction: A Bayesian Network Meta-Analysis of Randomized Controlled Trials (**wiley**) [[paper](https://onlinelibrary.wiley.com/doi/full/10.1155/2019/5814749)] 
+- <a name=""></a>**[MIGA]** Cross-Modal SymMap: an integrative database of traditional Chinese medicine enhanced by symptom mapping (**Academic**) [[paper](https://academic.oup.com/nar/article-abstract/47/D1/D1110/5150228)]
+- <a name=""></a>**[MIGA]** Efficacy of Danshen Class Injection in the Treatment of Acute Cerebral Infarction: A Bayesian Network Meta-Analysis of Randomized Controlled Trials (**Wiley**) [[paper](https://onlinelibrary.wiley.com/doi/full/10.1155/2019/5814749)] 
