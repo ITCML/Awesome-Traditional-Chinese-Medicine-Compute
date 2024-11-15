@@ -21,6 +21,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 ## 2024
 
 - <a name=""></a>**[MIGA]** Cross-Modal Graph Contrastive Learning with Cellular Images (**Advanced science**) [[paper](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202404845)] [[code](https://github.com/prokia/MIGA)]![GitHub stars](https://img.shields.io/github/stars/prokia/MIGA.svg?logo=github&label=Stars)
+- <a name=""></a>**[DMFPGA]** Predicting drug-induced liver injury using graph attention mechanism and molecular fingerprints (**ScienceDirect**) [[paper](https://www.sciencedirect.com/science/article/pii/S1046202323001986)] [[code](https://github.com/zhaoqi106/DMFPGA)]![GitHub stars](https://img.shields.io/github/stars/prokia/MIGA.svg?logo=github&label=Stars)
 
 ## 2023
 - <a name=""></a>**[MIGA]** Cross-Modal Graph Contrastive Learning with Cellular Images (**Advanced science**) [[paper](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202404845)] [[code](https://github.com/prokia/MIGA)]![GitHub stars](https://img.shields.io/github/stars/prokia/MIGA.svg?logo=github&label=Stars)
