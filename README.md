@@ -28,6 +28,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 - <a name=""></a>**[PNNL]** Artificial intelligence for drug discovery: Resources, methods, and applications (**Cell**) [[paper](https://www.cell.com/molecular-therapy-family/nucleic-acids/fulltext/S2162-2531(23)00039-2)][[code](https://github.com/pnnl/solubility-prediction-paper)]![GitHub stars](https://img.shields.io/github/stars/prokia/MIGA.svg?logo=github&label=Stars)
 
 ## 2021
+- <a name=""></a>**[]** FangNet: Mining herb hidden knowledge from TCM clinical effective formulas using structure network algorithm (**ScienceDirect**) [[paper](https://www.sciencedirect.com/science/article/pii/S2001037020305031)]
 - <a name=""></a>**[]** HERB: a high-throughput experiment-and reference-guided database of traditional Chinese medicine (**Academic**) [[paper](https://academic.oup.com/nar/article-abstract/49/D1/D1197/6017358)]
 - <a name=""></a>**[]** FangNet: Mining herb hidden knowledge from TCM clinical effective formulas using structure network algorithm (**Sciencedirect**) [[paper](https://www.sciencedirect.com/science/article/pii/S2001037020305031)]
 
